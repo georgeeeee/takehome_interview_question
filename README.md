@@ -15,7 +15,19 @@ This repository includes a `joomla 3.9.22` stable full package and a dump of dat
 * username: admin
 * password: admin
 
-## Workflow
+## Workflow Demo Screenshot
+* Welcome Page
+![Welcome Page](https://user-images.githubusercontent.com/18320430/96704426-1087f380-1362-11eb-994a-e7b8104065b5.jpg)
+
+* Test Form Page
+![Test Form](https://user-images.githubusercontent.com/18320430/96704487-2695b400-1362-11eb-9c6e-f25a8a03ab8c.jpg)
+
+* User Email Notification After Form Submission
+![User Notification](https://user-images.githubusercontent.com/18320430/96704551-3a411a80-1362-11eb-9d78-f165f7062352.jpg)
+
+* Administrator Email Notification After Form Submission
+![Administrator Notification](https://user-images.githubusercontent.com/18320430/96704565-3f9e6500-1362-11eb-96bc-aa8bcc7348fb.jpg)
+
 
 
 ##### Reference: [Move a Joomla website to a new server](https://buckleupstudios.com/move-a-joomla-website-to-a-new-server/), [Copying a Joomla website](https://docs.joomla.org/Copying_a_Joomla_website)
