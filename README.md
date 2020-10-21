@@ -19,6 +19,9 @@ This repository includes a `joomla 3.9.22` stable full package and a dump of dat
 * Welcome Page
 ![Welcome Page](https://user-images.githubusercontent.com/18320430/96704426-1087f380-1362-11eb-994a-e7b8104065b5.jpg)
 
+* Sign Up
+![Sign Up](https://user-images.githubusercontent.com/18320430/96705323-1e8a4400-1363-11eb-969a-d7c5b12b28e6.jpg)
+
 * Test Form Page
 ![Test Form](https://user-images.githubusercontent.com/18320430/96704487-2695b400-1362-11eb-9c6e-f25a8a03ab8c.jpg)
 
