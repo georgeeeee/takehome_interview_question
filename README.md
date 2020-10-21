@@ -15,4 +15,7 @@ This repository includes a `joomla 3.9.22` stable full package and a dump of dat
 * username: admin
 * password: admin
 
+## Workflow
+
+
 ##### Reference: [Move a Joomla website to a new server](https://buckleupstudios.com/move-a-joomla-website-to-a-new-server/), [Copying a Joomla website](https://docs.joomla.org/Copying_a_Joomla_website)
