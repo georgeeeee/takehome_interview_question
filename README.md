@@ -5,6 +5,7 @@ This repository includes a `joomla 3.9.22` stable full package and a dump of dat
 ## Deployment Steps
 1. Install the lastest `WAMPServer`.
 2. Put the `Joomla_3.9.22-Stable-Full_Package` folder into `wamp64/www` folder.
+3. Left click the `WAMPServer` icon located at the bottom right corner, choose `Your VirtualHost` then click `VirtualHost Management` and fill out the required field to create virtual host.
 3. Create a database called 'joomla' in MySQL.
 4. Import the `joomla.sql` file into the 'joomla' database.
 5. (Optional) Change `configuration.php` by changing the `$host` parameter to your local host ip address, `$user` and `$password` to your MySQL server's username and password.
