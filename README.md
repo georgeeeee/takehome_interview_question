@@ -8,7 +8,7 @@ This repository includes a `joomla 3.9.22` stable full package and a dump of dat
 3. Left click the `WAMPServer` icon located at the bottom right corner, choose `Your VirtualHost` then click `VirtualHost Management` and fill out the required field to create virtual host.
 3. Create a database called 'joomla' in MySQL.
 4. Import the `joomla.sql` file into the 'joomla' database.
-5. (Optional) Change `configuration.php` by changing the `$host` parameter to your local host ip address, `$user` and `$password` to your MySQL server's username and password.
+5. (Optional) Change `configuration.php` by changing the `$user` and `$password` to your MySQL server's username and password.
 6. (Optional) Go to System -> System Information -> Directory Permissions to check whether the `Log folder` and the `Temp folder` are writable. If not, then change the `$log_path` and `$tmp_path` parameters to the corresponding ones.
 
 ## Joomla Admin Credentials
